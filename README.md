@@ -1,2 +1,4 @@
 # TestBackendFrontend
-Just a test
+
+
+docker-compose up
