@@ -1,0 +1,30 @@
+body{
+  background-image: url(./pexels-energepiccom-159888.jpg);
+}
+      .cool{
+        border: 1px  solid rgb(255, 255, 255);
+        height: 70px;
+      }
+
+      .tex-center{
+          text-align: center;
+      }
+      .formulario{
+          text-align: center;
+      }
+
+      #formu{
+        background-color: hsla(0, 1%, 27%, 0.287);
+        text-align: center;
+        padding-left: 3%;
+        padding-right: 3%;
+
+      }
+
+      .padre{
+        height: 600px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 1%;
+      }

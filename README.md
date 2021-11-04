@@ -1,5 +1,5 @@
 # TestBackendFrontend
 
-docker-compose build
+sudo docker-compose build
 
-docker-compose up
+sudo docker-compose up
